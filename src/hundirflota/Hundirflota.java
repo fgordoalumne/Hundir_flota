@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package hundirflota;
-
+//Hola Eugenio
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -47,7 +47,7 @@ public class Hundirflota {
          tablero_jugador21.dibujar_tablero();*/
         jugarFlota(Jugador1, tablero_jugador11, tablero_jugador12, Jugador2,
                 tablero_jugador21, tablero_jugador22);
-
+        
     }
 
     public static Tablero ubicarBarcos(Tablero tablero) {
